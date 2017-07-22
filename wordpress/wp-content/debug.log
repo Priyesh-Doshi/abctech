@@ -2164,3 +2164,24 @@
 [22-Jul-2017 15:18:05 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
 [22-Jul-2017 15:18:06 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
 [22-Jul-2017 15:18:08 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 15:59:43 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 15:59:44 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 15:59:49 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 15:59:50 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 15:59:53 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 15:59:54 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 15:59:54 UTC] PHP Notice:  Undefined index: no_container in /var/www/html/abctech/wordpress/wp-content/themes/astrid/inc/framework/widget-options.php on line 94
+[22-Jul-2017 16:24:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:14 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:14 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:21 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:21 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:23 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:23 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:39 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:24:39 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:27:35 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
+[22-Jul-2017 16:27:35 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/abctech/wordpress/wp-content/themes/astrid/functions.php on line 269
